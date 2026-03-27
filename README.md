@@ -2,8 +2,8 @@
 Objective: Balance a ball within a specific area moveable platform.
 
 The project uses the following components:
-- Platform (Shown below, first image)
-- Base (Shown Below, second image)
+- Base (Shown below, first image)
+- Platform (Shown Below, second image)
 - 2 Servo Motors
 - 2 Linkage Arm
 - 2 smooth bearing balls
